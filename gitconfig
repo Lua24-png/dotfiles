@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = lua.almeidaf23Â@gmail.com
+	name = Lua Ferreira
